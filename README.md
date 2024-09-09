@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **my current internship!**
 
-- 🌱 I’m currently learning **Linear Algebra in regards to AI/ML and Analysis of Algorithms**
+- 🌱 I’m currently learning **Linear Algebra for AI/ML
 
 - 👨‍💻 All of my projects are available at [https://www.johntrinhvu.dev/](https://www.johntrinhvu.dev/)
 
