@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **my current internship!**
 
-- 🌱 I’m currently learning **Linear Algebra for AI/ML
+- 🌱 I’m currently learning **Linear Algebra** for AI/ML
 
 - 👨‍💻 All of my projects are available at [https://www.johntrinhvu.dev/](https://www.johntrinhvu.dev/)
 
@@ -17,7 +17,6 @@
 
 - 📄 Know about my experiences [https://www.johntrinhvu.dev/](https://www.johntrinhvu.dev/)
 
-- ⚡ Fun fact **I am Challenger in League of Legends!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
