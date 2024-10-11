@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/lolsahori" target="blank"><img src="https://img.shields.io/twitter/follow/lolsahori?logo=twitter&style=for-the-badge" alt="lolsahori" /></a> </p>
 
-- 🔭 I’m currently working on **my current internship!**
-
-- 🌱 I’m currently learning **Linear Algebra** for AI/ML
+- 🔭 I’m currently working on **my current position as an AI/ML Researcher for the Beckman Laser Institute**
 
 - 👨‍💻 All of my projects are available at [https://www.johntrinhvu.dev/](https://www.johntrinhvu.dev/)
 
