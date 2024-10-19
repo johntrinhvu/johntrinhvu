@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **johntv3@uci.edu**
 
-- 📄 Know about my experiences [https://www.johntrinhvu.dev/](https://www.johntrinhvu.dev/)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
