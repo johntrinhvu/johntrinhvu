@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Johnnie</h1>
-<h3 align="center">A passionate full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johntrinhvu&label=Profile%20views&color=0e75b6&style=flat" alt="johntrinhvu" /> </p>
 
@@ -7,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/lolsahori" target="blank"><img src="https://img.shields.io/twitter/follow/lolsahori?logo=twitter&style=for-the-badge" alt="lolsahori" /></a> </p>
 
-- 🔭 I’m currently working on **my current position as an AI/ML Researcher for the Beckman Laser Institute**
+- 🔭 I’m currently working at **Meta** as a Software Engineer for FB Messenger.
 
 - 👨‍💻 All of my projects are available at [https://www.johntrinhvu.dev/](https://www.johntrinhvu.dev/)
 
